@@ -1,0 +1,11 @@
+{
+    "exam_year": "2024",
+    "exam_type": "YKS",
+    "exam_subtype": "TYT",
+    "sections": [
+        "TURKCE-TESTI",
+        "SOSYAL-BILIMLER-TESTI",
+        "TEMEL-MATEMATIK-TESTI",
+        "FEN-BILIMLERI-TESTI"
+    ]
+}
